@@ -16,5 +16,6 @@ public class App
 		App appObject = new App();
         System.out.println( "Thre reverse strinf of\""+ str + "\" is \""+ 
 		                      appObject.reverseString(str) + "\"" );
+        System.out.println("This is done!");
     }
 }
