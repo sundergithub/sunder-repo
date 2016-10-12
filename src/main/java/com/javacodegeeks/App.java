@@ -18,5 +18,6 @@ public class App
 		                      appObject.reverseString(str) + "\"" );
         System.out.println("This is done!");
         System.out.println("This is second time change!");
+        System.out.println("This is second time cha#######nge!");
     }
 }
